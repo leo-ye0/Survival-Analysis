@@ -3,8 +3,8 @@
 #### Instructor: Mohammad Reza Rajati, PhD
 #### Yutao Ye
 #### Email: yutaoye@usc.edu
-### Project Description
 ---
+### Project Description
 Survival Analysis is a subfield of statistics that studies time to a specific event (such as
 death or malfunction of an equipment) as a random variable. The statistical properties
 of the random variable such as mean time to an event are very important in many fields
