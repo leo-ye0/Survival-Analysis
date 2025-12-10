@@ -30,7 +30,7 @@ The analysis uses the `pbcseq` dataset from the R `survival` package.
 * **Structure:** Longitudinal/Sequential data (multiple visits per patient).
 * **Key Variables:**
     * `futime`: Follow-up time (days).
-    * `status`: 0=Alive, 1=Transplant, 2=Dead.
+    * `status`: 0=alive, 1=transplanted, 2=death.
     * `trt`: Treatment (D-penicillamine vs Placebo).
     * `sex`: Male/Female.
     * `bili`, `albumin`, `protime`, `age`: Clinical covariates.
